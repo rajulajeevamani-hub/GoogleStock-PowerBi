@@ -1,1 +1,3 @@
 # GoogleStock-PowerBi
+<img src="https://i.postimg.cc/kXkxcv4n/Chat-GPT-Image-Sep-6-2025-03-17-14-PM.png" width="1000" height="600"><br>
+This project focuses on analyzing the historical performance of Google (Alphabet Inc.) stock using Power BI. By integrating and visualizing stock market data, the project highlights key trends in stock prices, trading volumes, and returns over time. The interactive dashboard allows users to explore price fluctuations, compare periods of growth and volatility, and gain insights into the company’s financial trajectory. Through data cleaning, modeling, and visualization, the project demonstrates how business intelligence tools can transform raw financial data into meaningful insights for investors and analysts.
